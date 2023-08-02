@@ -1,8 +1,7 @@
 const mongoose = require('mongoose');
 
-const password = 'vvPnEgQ5AZnTrdxB';
 
-const url = `mongodb+srv://sespana22:vvPnEgQ5AZnTrdxB@bootcamp.dqfxv9k.mongodb.net/?retryWrites=true&w=majority`
+const url = "URL Database"
 
 
 mongoose.connect(url)
